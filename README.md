@@ -35,6 +35,12 @@ The solution uses a multi-stage optimization pipeline:
 - Successfully reconstructs the model structure
 - Achieves near-zero mean squared error (MSE)
 
+## Results
+
+- Achieved near-zero Mean Squared Error (MSE)
+- Successfully reconstructed the correct network ordering
+- Demonstrates effectiveness of heuristic optimization in high-dimensional search spaces
+
 ## How to Run
 
 1. Place the required files:
@@ -45,3 +51,6 @@ The solution uses a multi-stage optimization pipeline:
 
 ```bash
 pip3 install -r requirements.txt
+
+
+
