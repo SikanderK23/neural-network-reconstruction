@@ -1,8 +1,0 @@
-__pycache__/
-*.pyc
-.DS_Store
-
-# Ignore puzzle data
-pieces/
-pieces_data.json
-historical_data.csv
